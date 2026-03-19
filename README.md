@@ -48,6 +48,7 @@ To help you get started quickly, please refer to the assembly layout and setup s
 | 2 | **Rear Wheel Mount** | `F01-0003-01` | 1 |
 | 3 | **Body Mount** | `F01-0004-01` | 1 |
 | 4 | **Wheel Hub** | `F01-0001-01` | 4 |
+| 5 | **Post** | `F01-0005-01` | 3 |
 | 6 | **Screw** | `Truss M2 X 8L` | 20 |
 
 > [!NOTE]
