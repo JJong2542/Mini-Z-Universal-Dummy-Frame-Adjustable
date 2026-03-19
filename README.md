@@ -21,10 +21,10 @@ Professional-grade adjustable dummy frame for Kyosho Mini-Z body fitting, painti
 
 | 94mm Setup (Toyota 86) | 3D Printed Sample |
 | :---: | :---: |
-| ![Toyota 86 Fitting](Photos/ Body Fit_01.jpg) | ![3D Sample](Photos/ 3D Print_01.jpg) |
+| ![Toyota 86 Fitting](Photos/Body Fit_01.jpg) | ![3D Sample](Photos/3D Print_01.jpg) |
 
 ### Functional Preview
-![Dummy Frame Layout](Photos/ Modeling_01.jpg)
+![Dummy Frame Layout](Photos/Modeling_01.jpg)
 
 ## ⚖️ License
 This project is shared for the Mini-Z community. Feel free to use, modify, and share.
