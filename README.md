@@ -37,3 +37,15 @@ This project is shared for the Mini-Z community. Feel free to use, modify, and s
 ---
 **Designed by JWKim**
 *Precision Mechanical Design for RC Enthusiasts*
+
+## 🛠️ Assembly & Setup Guide
+
+To help you get started quickly, please refer to the assembly layout and setup sheet below:
+
+### 1. Assembly Layout
+![Assembly Guide](Photos/Assembly.JPG)
+*Exploded view for clear component positioning.*
+
+### 2. Setup Sheet (Wheelbase & Width)
+![Setup Sheet](Photos/Setup_sheet.jpg)
+*Quick reference for 90mm, 94mm, 98mm, and 102mm configurations.*
