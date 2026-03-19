@@ -31,12 +31,6 @@ Professional-grade adjustable dummy frame for Kyosho Mini-Z body fitting, painti
 ![Dummy Frame Layout_01](Photos/Model_01.JPG)
 ![Dummy Frame Layout_02](Photos/Model_02.JPG)
 
-## ⚖️ License
-This project is shared for the Mini-Z community. Feel free to use, modify, and share.
-
----
-**Designed by JWKim**
-*Precision Mechanical Design for RC Enthusiasts*
 
 ## 🛠️ Assembly & Setup Guide
 
@@ -47,5 +41,13 @@ To help you get started quickly, please refer to the assembly layout and setup s
 *Exploded view for clear component positioning.*
 
 ### 2. Setup Sheet (Wheelbase & Width)
-![Setup Sheet](Photos/Setup_sheet.jpg)
+![Setup Sheet](Photos/Setup_sheet.JPG)
 *Quick reference for 90mm, 94mm, 98mm, and 102mm configurations.*
+
+## ⚖️ License
+This project is shared for the Mini-Z community. Feel free to use, modify, and share.
+
+---
+**Designed by JWKim**
+*Precision Mechanical Design for RC Enthusiasts*
+
