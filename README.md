@@ -39,6 +39,19 @@ To help you get started quickly, please refer to the assembly layout and setup s
 ### 1. Assembly Layout
 ![Assembly Guide](Photos/Assembly.JPG)
 *Exploded view for clear component positioning.*
+### 3. Parts List (BOM)
+| Number | Part Name | Drawing Number | Quantity |
+| :--- | :--- | :--- | :--- |
+| 1 | **Main Body** | `F01-0002-01` | 1 |
+| 2 | **Rear Wheel Mount** | `F01-0003-01` | 1 |
+| 3 | **Body Mount** | `F01-0004-01` | 1 |
+| 4 | **Wheel Hub** | `F01-0001-01` | 4 |
+| 5 | **Post** | `F01-0005-01` | 3 |
+| 6 | **Screw** | `Truss M2 X 8L` | 20 |
+
+> [!NOTE]
+> All mechanical parts are designed for M2 screws. For 3D printing, it is recommended to have a 2.0mm tap or drill bit ready for clean assembly.
+
 
 ### 2. Setup Sheet (Wheelbase & Width)
 ![Setup Sheet](Photos/Setup_sheet.JPG)
