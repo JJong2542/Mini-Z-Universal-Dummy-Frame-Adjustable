@@ -10,3 +10,4 @@ For those who don't have access to CNC machining, I've provided **STL files** fo
 
 ### Assembly Note
 - Since 3D prints have slight shrinkage, you might need to clean up the holes with a **2mm drill bit** or a **reamer** for a perfect fit with the M2 bolts.
+> **Tip:** You can view the 3D models directly in your browser! Just click on any `.stl` file in the `STL` folder to rotate and inspect the design before downloading.
