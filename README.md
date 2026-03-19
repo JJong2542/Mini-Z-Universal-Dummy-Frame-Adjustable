@@ -25,7 +25,7 @@ Professional-grade adjustable dummy frame for Kyosho Mini-Z body fitting, painti
 
 ### Functional Preview
 ![Dummy Frame Layout](Photos/Model_01.JPG)
-!(Photos/Model_02.JPG)
+(Photos/Model_02.JPG)
 
 ## ⚖️ License
 This project is shared for the Mini-Z community. Feel free to use, modify, and share.
