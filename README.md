@@ -9,6 +9,8 @@ Professional-grade adjustable dummy frame for Kyosho Mini-Z body fitting, painti
 - **Surface Finish:** Optimized for sanded black gloss anodizing.
 
 ## 📂 Project Structure
+- `/3D Print`: Full set 3D Printed 'STL Format File' (Parts).
+- `/STEP File`: Full set 3D Cad Data 'STEP Format File' (Part Data).
 - `/Drawings`: Full set of technical drawings (Assembly & Part Drawings).
 - `/Photos`: Verified 3D printed samples and body fitting examples (Toyota 86).
 
