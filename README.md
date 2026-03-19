@@ -10,7 +10,7 @@ Professional-grade adjustable dummy frame for Kyosho Mini-Z body fitting, painti
 
 ## 📂 Project Structure
 - `/Drawings`: Full set of technical drawings (Assembly & Part Drawings).
-- `/Photos`: Verified 3D printed samples and body fitting examples (Supra A90).
+- `/Photos`: Verified 3D printed samples and body fitting examples (Toyota 86).
 
 ## 🛠 Specifications
 - **Material:** AL6061 (Aluminum) or 3D Printing (PLA/PETG/Resin)
